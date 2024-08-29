@@ -15,7 +15,8 @@ Eficiência Operacional: Analisando a quantidade de entregas em relação à rec
 
 **Gestão de Riscos:** O número de pedidos por motivo de devolução pode fornecer insights sobre os principais problemas ou falhas nos produtos ou processos logísticos. Isso pode ajudar na identificação de áreas que exigem melhorias ou correções para reduzir os custos associados a devoluções e reclamações dos clientes.
 
-![image](https://github.com/user-attachments/assets/86bd3c2e-b13c-443d-aaef-97a5f9b0c210)
+![image](https://github.com/user-attachments/assets/79c4871d-0215-41cf-b290-eaf6ba762546)
+
 ![image](https://github.com/user-attachments/assets/224bf30a-8be3-4342-811f-ce3c2ac91ba6)
 
 
